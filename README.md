@@ -6,7 +6,7 @@ The Study Cards App puts all 100 official USCIS citizenship test questions on no
 Download the app from the [iOS App Store](https://apps.apple.com/us/app/us-citizenship-study-cards/id1640996490)
 
 
-![Gif of the app in action.](/assets/citizenship-app-demo.gif){:style="display:block; margin-left:auto; margin-right:auto; width: 100%; border:2px solid; "}
+![Gif of the app in action.](/assets/citizenship-app-demo.gif)
 
 Study everywhere you go!
 * Tap cards to flip from front to back!
@@ -20,4 +20,5 @@ The official USCIS questions are available in English, Korean, Spanish, and Viet
 You can read about the development challenges [on my blog](https://www.joelhuber.com/2022/08/23/app-release-citizenship-study-cards.html).
 
 | Study Setup | Settings View |
-| ![Study setup](/assets/citizenship-study-iphone-13-max-study-setup.png){:style="display:block; margin-left:auto; margin-right:auto; width: 100%; border:2px solid; "} | ![Settings View](/assets/citizenship-study-iphone-13-max-app-settings.png){:style="display:block; margin-left:auto; margin-right:auto; width: 100%; border:2px solid; "} |
+| :---: | :---: | 
+| ![Study setup](/assets/citizenship-study-iphone-13-max-study-setup.png) | ![Settings View](/assets/citizenship-study-iphone-13-max-app-settings.png) |
