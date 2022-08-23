@@ -1,6 +1,6 @@
 # US Citizenship Study Cards App
 
-Trying to study for the US citizenship test?
+Trying to study for the US citizenship test?\
 The Study Cards App puts all 100 official USCIS citizenship test questions on notecards!
 
 Download the app from the [iOS App Store](https://apps.apple.com/us/app/us-citizenship-study-cards/id1640996490)
