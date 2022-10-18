@@ -21,7 +21,7 @@ Study everywhere you go!
 
 The USCIS 100 Questions are available in English, Arabic, Chinese, Korean, Spanish, Tagalog, and Vietnamese.
 
-You can read about the development challenges [on my blog](https://www.joelhuber.com/2022/08/23/app-release-citizenship-study-cards.html).
+You can read about the development challenges on my blog: [Part 1](https://www.joelhuber.com/2022/08/23/app-release-citizenship-study-cards.html), [Part 2](https://www.joelhuber.com/2022/09/05/app-us-citizenship-study-cards-reflection-design.html), [Part 3](https://www.joelhuber.com/2022/09/20/us-citizenship-study-cards-early-user-data.html).
 
 | Study Setup | Settings View |
 | :---: | :---: | 
